@@ -1,4 +1,6 @@
-package javapractice;
+//package javapractice;
+
+
 
 class MyPackageClass { 
     public static void main(String[] args) { 
